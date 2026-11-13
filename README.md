@@ -202,4 +202,4 @@ This repository serves as the official landing page for Splash Video Player. The
 **Get the most recent version of Splash Video Player today!**
 
 ---
-**Last updated:** 2026-11-12 18:46:41 UTC
+**Last updated:** 2026-11-13 00:04:03 UTC
